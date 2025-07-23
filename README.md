@@ -68,6 +68,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnniNri&theme=github-compact" width="800" />
 </p>
 
+<!-- Snake -->
+<div align="center">
+  
+   ![snake gif](https://github.com/AnniNri/AnniNri/blob/output/github-snake-dark.svg)
+   </div>
 
 ## 🎯 Currently Learning
 
