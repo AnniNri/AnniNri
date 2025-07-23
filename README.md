@@ -25,9 +25,9 @@
 ---
 
 - 🎓 MCA Student passionate about software development
-- 🌱 Learning Frontend Development, Java, DSA(Basics), and UI Design
-- 💬 Ask me about Java, C, HTML, CSS, JavaScript, SQL, and DSA(Basics)
-- 📫 Reach me at: asrana.codez@gmail.com
+- 🌱 Learning *Frontend Development, Java, DSA(Basics), and UI Design*
+- 💬 Ask me about *Java, C, HTML, CSS, JavaScript, SQL, and DSA(Basics)*
+- 📫 Reach me at: *asrana.codez@gmail.com*
 
 ---
 
