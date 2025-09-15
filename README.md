@@ -85,4 +85,4 @@
 
 ## 💡 Quote
 
-> “Stay curious. Stay humble. Keep building.”
+> E3 = Explore || Experiment || Evolve
